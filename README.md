@@ -3,7 +3,7 @@
 
 An immersive, multi-platform gaming experience built with **Vite** and **React**, where players explore, collect, and connect across realms. Quest transforms everyday interactions into gamified adventures, powered by cinematic visuals, interactive lore, and seamless cross-world mechanics.
 
-## <span style="color: #f472b6"> Live Demo: https://quest-game.netlify.app/</span>
+## <span style="color: #f472b6"> Live Demo: https://quest-oi.netlify.app/</span>
 
 - **Built with Vite**: Blazing-fast development and optimized production builds using the Vite toolchain
 - **Metagame Layer**: Combines Web2 and Web3 activity into one persistent experience
