@@ -1,5 +1,5 @@
 # <span style="color: #38bdf8">Quest: The Ultimate Gaming Metaverse</span>
-![Quest Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
+![Quest Website](https://res.cloudinary.com/dzasac85m/image/upload/v1753902944/Screenshot_2025-07-30_201459_n9v5py.jpg)
 
 An immersive, multi-platform gaming experience built with **Vite** and **React**, where players explore, collect, and connect across realms. Quest transforms everyday interactions into gamified adventures, powered by cinematic visuals, interactive lore, and seamless cross-world mechanics.
 
